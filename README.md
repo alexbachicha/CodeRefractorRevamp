@@ -17,6 +17,8 @@ Web accessibility is an important consideration for businesses. It ensures peopl
 
 ## Usage
 
+[Demo of CodeRefractorRevamp](assets/images/demo.gif)
+
 ## License
 
 Licensed under the [MIT License](license.txt)
