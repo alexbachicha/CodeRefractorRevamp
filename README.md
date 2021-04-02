@@ -19,3 +19,4 @@ Web accessibility is an important consideration for businesses. It ensures peopl
 
 ## License
 
+Licensed under the [MIT License](license.txt)
