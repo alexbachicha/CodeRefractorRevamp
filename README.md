@@ -16,7 +16,7 @@ Web accessibility is an important consideration for businesses. It ensures peopl
 
 ## Installation
 
-View Code Refractor as a deployed application [here]()
+View Code Refractor as a deployed application [on GitHub](https://alexbachicha.github.io/CodeRefractorRevamp/)
 
 ## Features and Acceptance Criteria
 
